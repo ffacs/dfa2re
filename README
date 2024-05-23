@@ -1,0 +1,19 @@
+# DFA2RE
+
+Convert a DFA to Regular expression
+
+## build
+
+g++ main.cpp -std=c++17 -o cv
+
+## example
+
+./cv would generate a regular expression that find the pattern which is a multiple of 3.
+
+## TODO
+
+read from input file and generate output
+
+## WARN
+
+The code was not well tested.
